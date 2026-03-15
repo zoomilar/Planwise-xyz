@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://Planwise.xyz/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
